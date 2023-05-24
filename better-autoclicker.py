@@ -43,7 +43,7 @@ def on_press(key):
 
 #Displayed things if the app opened
 def display_controls():
-    print(" --- Better-Autoclicker by IceDah ---\n")
+    print(" --- Better Autoclicker by IceDah ---\n")
     print("-----------------------------------------------------")
     print(" - Settings: ")
     print("\t delay = " + str(delay) + ' sec' + '\n')
