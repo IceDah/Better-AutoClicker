@@ -1,5 +1,5 @@
 # Better-AutoClicker
-More than a autoclicker app  that opens in your shell.
+This is more than just an autoclicker app; it opens in your shell and offers additional features.
 
 ![image](https://github.com/IceDah/Better-AutoClicker/assets/129324866/d35eca18-772c-4add-82a2-a8ab86221895)
 -------------------------------------------------------------
