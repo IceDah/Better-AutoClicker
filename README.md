@@ -5,7 +5,7 @@ More than a autoclicker app  that opens in your shell.
 -------------------------------------------------------------
 Write down Delay Second
 
-![image](https://github.com/IceDah/Better-AutoClicker/assets/129324866/7b68a1bf-9fcb-4381-937c-5b8fb419b764)
+![image](https://github.com/IceDah/Better-AutoClicker/assets/129324866/b6a3bec2-b21c-4256-88b2-2c32d8342f1d)
 -------------------------------------------------------------
 Write down with which button u want to click
 
