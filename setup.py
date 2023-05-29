@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='BetterClicker',
-    version='0.1',
+    version='0.2',
     description='A autoclicker script with more options',
     url='https://github.com/IceDah/Better-AutoClicker',
     author='IceDah',
